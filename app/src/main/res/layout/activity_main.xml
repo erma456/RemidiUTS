@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="xir4n30.remidiuts.telkomschid.remidiuts.MainActivity">
+    tools:context="xir611.remidiuts.telkomschid.remidiuts.MainActivity">
 
     <Button
         android:id="@+id/swipe"
